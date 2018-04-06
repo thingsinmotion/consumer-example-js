@@ -1,0 +1,5 @@
+node_modules
+
+certs/private.key
+certs/certificate.pem
+certs/root.ca.pem
