@@ -1,4 +1,4 @@
-# Seaspray
+# TagPipe Consumer Example - NodeJS
 
 Example TagPipe consumer written in for NodeJS
 
