@@ -1,6 +1,6 @@
 # TagPipe Consumer Example - NodeJS
 
-Example TagPipe consumer written in for NodeJS
+Example TagPipe consumer written in NodeJS
 
 ## Getting Started
 
