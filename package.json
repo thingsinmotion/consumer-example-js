@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "ThingsInMotion",
   "dependencies": {
-    "aws-iot-device-sdk": "2.2.0"
+    "aws-iot-device-sdk": "2.2.1"
   },
   "engines": {
     "node": ">=8",
