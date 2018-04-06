@@ -1,0 +1,23 @@
+{
+  "name": "@thingsinmotion/consumer-example-js",
+  "description": "Example Things in Motion consumer written in for NodeJS",
+  "version": "1.0.0",
+  "author": "ThingsInMotion",
+  "dependencies": {
+    "aws-iot-device-sdk": "2.2.0"
+  },
+  "engines": {
+    "node": ">=8",
+    "npm": ">=5"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thingsinmotion/consumer-example-js.git"
+  },
+  "scripts": {
+    "start": "node --trace-deprecation --trace-warnings ./index.js"
+  }
+}
