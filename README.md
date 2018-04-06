@@ -26,7 +26,7 @@ Example TagPipe consumer written in NodeJS
     npm install
     ```
 
-1.  Update the `CUSTOMER_ID` variable in `index.js` with your Customer Id obtained from your the Customer Portal on the Consumers tab
+1.  Update the `CUSTOMER_ID` variable in `index.js` with your Customer Id obtained from your Customer Portal on the Consumers tab
 
 1.  Start the Consumer
 
