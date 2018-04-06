@@ -15,7 +15,7 @@ Example TagPipe consumer written in NodeJS
     or
 
     ```
-    git@github.com:thingsinmotion/consumer-example-js.git
+    git clone git@github.com:thingsinmotion/consumer-example-js.git
     ```
 
 1.  Copy your Consumer certificates into the `./certs` directory
